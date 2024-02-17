@@ -5,4 +5,5 @@
 - Aprendi entrada e saida de dados o Input onde  informamos os dados ,  e o print da saida de dados
 - Foi abordado os tipos de dados primitivos com , string , interger , bollean , float
 - Foi abordado o conversão de dados
-- Foi abordado os operadores aritmeticos com as porações : + , - * , / ,%(modulo), // (Divisão inteira	) 
+- Foi abordado os operadores aritmeticos com as porações : + , - * , / ,%(modulo), // (Divisão inteira	)
+- Meu aprendizado de operadores de comparação de valores que são :maior,menor, maior ou igual , menor ou igual , igual , diferente 
